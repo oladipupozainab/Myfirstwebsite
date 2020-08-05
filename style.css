@@ -1,0 +1,60 @@
+@media only screen and (max-width: 547px){
+	*{
+		margin: 0;
+		padding: 0;
+	}
+	.header{
+		width: 100%;
+		background: silver;
+		height: 220px;
+		margin-top: -10px;
+	}
+	.page{
+		color: lightblue;
+	}
+	.pag{
+		color: lime;
+		font-size: 23px;
+	}
+	.para{
+		color: white;
+	}
+	.right{
+		background: lightblue;
+		width: 100%;
+		height: 200px;
+		color: white;
+		text-align: center;
+		font-size: 16px;
+	}
+	h2{
+       font-size: bold;
+	}
+	.up {
+        border: 1px solid lime;
+        background: lime;
+        width: 70px;
+        height: 35px;
+        margin-left: 150px;
+
+	}
+	.up:hover{
+		background: grey;
+		color:black; 
+	}
+	
+	.left{
+		background: lightgrey;
+		width: 100%;
+		height: 200px;
+		font-size: 16px;
+		margin-left: 30px;
+	}
+	.are{
+		font-size: bold;
+		margin-left: 40px;
+	}
+	.list li{
+		list-style: none;
+	}
+}
